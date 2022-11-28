@@ -1,0 +1,5 @@
+{ 
+    "maxFiles" : 20,
+    "maxConnections" : 15,
+    "rootPath" : "/webroo"
+}
